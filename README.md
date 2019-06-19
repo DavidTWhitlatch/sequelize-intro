@@ -51,9 +51,9 @@ Foo.init({
 In our first example, we first define a new class that inherits from `Model`. We can also define custom methods for our class inside the `{}` after `Model`.
 
 Then we use the `.init` method which takes two arguments. The first, is an object to define our column attributes. Here is a list of different data types that we can use:
-
+[Data Types](http://docs.sequelizejs.com/variable/index.html#static-variable-DataTypes)
 <details>
-<summary>[Data Types](http://docs.sequelizejs.com/variable/index.html#static-variable-DataTypes)</summary>
+<summary>Examples</summary>
 
 ```js
 
