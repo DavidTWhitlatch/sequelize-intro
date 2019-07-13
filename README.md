@@ -10,7 +10,7 @@ npm install sequelize pg
 
 ```
 
-In order for Sequelize to work with a Postgresq base, we also need to install `pg` and `pg-hstore`
+In order for Sequelize to work with a Postgresq base, we also need to install `pg`
 
 ## [Instance Constructor](http://docs.sequelizejs.com/class/lib/sequelize.js~Sequelize.html#instance-constructor-constructor)
 
