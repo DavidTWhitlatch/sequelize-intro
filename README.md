@@ -6,7 +6,7 @@ Required NPM packages for Sequelize:
 
 ```bash
 
-npm install sequelize pg pg-hstore
+npm install sequelize pg
 
 ```
 
